@@ -1,0 +1,3 @@
+matris kareleri toplami : 41
+ozdegerlerin kareleri toplami : 11 
+Schur sinir degeri : 11 < 41 elde edilir.

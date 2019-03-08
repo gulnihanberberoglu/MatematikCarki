@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1507461756 source:c:\users\gulnihan\desktop\prolabproje1(mat_cark)\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1507734637 source:c:\users\gulnihan\desktop\prolabproje1\prolabproje1(mat_cark)\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
